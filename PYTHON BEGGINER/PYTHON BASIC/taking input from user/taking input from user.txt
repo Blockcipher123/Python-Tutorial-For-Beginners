@@ -1,0 +1,32 @@
+-------------------------------------------------------- How to input from user? --------------------------------------------------------------------
+
+# we use the (input) function to take input from user in python 
+
+# Ex,
+	>>> input()
+	
+	>>> n = input() 
+	>>> print(n)
+	
+
+
+# You can also assign the massage that. for what are u taking input? u can use the (single cort '' or double curt "")
+
+ex,
+	>>> i = input('Enter Your Massage') # for single curt 
+	>>> print(i)
+	
+
+	>>> i = input("Enter Your Massage") # for double curt
+	>>> print(i)
+	
+
+
+
+
+***** Remember That! ****
+	- The input function take input in string 
+	- if u want to give input in int then u can use the >>> a = int(input())
+	- before u need to write int before input
+	- same like float >>> a = float(input())
+	

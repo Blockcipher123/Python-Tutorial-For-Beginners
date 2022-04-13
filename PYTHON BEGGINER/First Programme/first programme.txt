@@ -1,0 +1,15 @@
+------------------------------------------------------------ OUR FIRST PROGRAMME --------------------------------------------------------------------
+
+>>> print("Hello World!")
+Hello World!
+
+--->>>> Here! How it is working Now? In python there is one funtion which we called PRINT in python that would the any statement which are giving 
+LIKE print and we use the ( first opening bracket and ) closing bracket and then we use the '' SINGLE CORT OR "" DUBBLE COURT inside this we use to write our mass which we use to print.
+
+
+
+----------------------------- SAVING THE FILE ---------------
+
+when we creat the a file then we can save that file **.py**. It is file extenstion .py which we use to save any python file 
+for ex --> name.py (here name is file name and .py is file extenstion of python) 
+

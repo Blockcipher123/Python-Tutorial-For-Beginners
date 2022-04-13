@@ -1,0 +1,22 @@
+---------------------------------------------------------------- DATA STRUCTURE ---------------------------------------------------------------------
+
+PYTHON data structure
+
+>>> list 
+>>> tuple
+>>> set
+>>> dict
+
+
+
+
+----- 1st list ----
+	- we create the list in python by useing the [] (square bracket)
+	ex,
+		>>> a = [1,2,2,3,4,3]
+		>>> print(a)
+------- 2nd tuple ----
+	- we create the tuple in python by useing the () (bracket)	
+	ex, 
+		>>> a = (1,2,3,2)
+		>>> print(a)

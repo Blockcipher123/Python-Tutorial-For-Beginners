@@ -1,0 +1,16 @@
+- Condition
+-- The Boolean expressions you’ve seen so far could all be considered conditions, which are the same thing as expressions; condition is just a more specific name in the context of flow control statements. Conditions always evaluate down to a Boolean value, True or False. A flow control statement decides what to do based on whether its condition is True or False, and almost every flow control statement uses a condition.
+
+
+
+  name = 'Mary'
+  password = 'swordfish'
+  if name == 'Mary':
+    ➊ print('Hello, Mary')
+       if password == 'swordfish':
+        ➋ print('Access granted.')
+       else:
+        ➌ print('Wrong password.')
+
+
+You can view the execution of this program at https://autbor.com/blocks/. The first block of code ➊ starts at the line print('Hello, Mary') and contains all the lines after it. Inside this block is another block ➋, which has only a single line in it: print('Access Granted.'). The third block ➌ is also one line long: print('Wrong password.'

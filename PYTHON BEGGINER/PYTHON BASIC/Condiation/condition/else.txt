@@ -1,0 +1,16 @@
+Else Statements.
+	An if clause can optionally be followed by an else statement. The else clause is executed only when the if statement’s condition is False. In plain English, an else statement could be read as, “If this condition is true, execute this code. Or else, execute that code.” An else statement doesn’t have a condition, and in code, an else statement always consists of the following
+
+
+
+>>> The else keyword
+>>> A colon
+>>> Starting on the next line, an indented block of code (called the else clause)
+
+
+Example, 
+	
+	if name == 'Alice':
+    		print('Hi, Alice.')
+	else:
+    		print('Hello, stranger.')

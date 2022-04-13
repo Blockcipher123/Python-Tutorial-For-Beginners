@@ -1,0 +1,14 @@
+--------------------------------------------- DATA TYPE --------------------------------------------------------
+
+DATA TYPEs IN PYTHON 
+
+1. int (number)
+2. string ('Hello' or "Hello" (use any or them)) 
+3. float (decimal number)
+4. null (object)
+5. bool (bool)
+6. none type (none)
+
+
+**********There are DATA TYPE where are in python ***********************
+

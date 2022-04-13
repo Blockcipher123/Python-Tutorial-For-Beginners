@@ -1,0 +1,11 @@
+There is some coditions in python >>>
+
+>>>> if 
+>>>> elif
+>>>> else
+
+
+
+Note,
+	You can use the multiples elif in between the if and else 
+	if is start of the condition and else to end the condtion 
