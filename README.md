@@ -76,7 +76,7 @@ print("Hello World!")
 ```
 
 
-## Some Good Tutorial For Bigginer 
+## Some YOUTUBE Good Tutorial For Bigginer 
  - [Python Full Course for Beginners](https://youtu.be/_uQrJ0TkZlc)
  - [Full Course for Beginners](https://youtu.be/rfscVS0vtbw)
  - [Python for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
