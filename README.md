@@ -61,7 +61,7 @@ Follow The Steps
 ```
 
  - Optional
- - if You want to install some module if can use
+ - if You want to install some module in You computer
  ```bash
  pip install module-name
  like --- > pip install pygame
