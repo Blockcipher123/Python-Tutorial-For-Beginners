@@ -76,5 +76,16 @@ print("Hello World!")
 ```
 
 
+## Some Good Tutorial For Bigginer 
+ - [Python Full Course for Beginners](https://youtu.be/_uQrJ0TkZlc)
+ - [Full Course for Beginners](https://youtu.be/rfscVS0vtbw)
+ - [Python for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+ - [Python 3](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+ - [Python in Hindi from beginners (in HINDI)](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
+ - [Python Tutorial For Beginners In Hindi ](https://www.youtube.com/watch?v=gfDE2a7MKjA)
+
+
+
+
 ## Posted By
  - [@Block_Cipher](https://blockcipher123.github.io/GauravKumar/)
