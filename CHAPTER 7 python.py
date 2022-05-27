@@ -8,7 +8,7 @@
 
 
 
-# dictionaries intro 
+# ======================================================= dictionaries intro ========================================================
 # Q - why we use dectionaaries?
 # A - Because of limitations of list 
 # real data .
@@ -92,7 +92,7 @@ else:
 
 
 
-# check if value exist in dictionary -----> values method
+#                                               check if value exist in dictionary -----> values method
 if ['coco','ludo'] in user1.values():
     print('present')    
 else:

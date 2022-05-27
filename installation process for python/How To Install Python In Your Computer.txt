@@ -25,7 +25,7 @@
 					Form Here...Hope Your Python Will Install Sucessfully In Your COMPUTER/PC :)
 						
 
------------------------------ SOME CODE EDITROS TO WRITE PYTHON CODE ---------------------------
+----------------------------- SOME Good CODE EDITROS TO WRITE PYTHON CODE ---------------------------
 
 1 -- https://www.sublimetext.com/3
 2 -- https://code.visualstudio.com/

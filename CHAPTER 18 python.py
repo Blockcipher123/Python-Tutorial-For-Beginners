@@ -6,7 +6,7 @@
 
 
 
- # Read text file 
+# =================================================== Read text file =============================================================
 # read file
 # open function
 # read method
@@ -46,7 +46,7 @@ f.close()
 #     print(i, end= '')
 
 
-# 																		With blocks
+# 																With blocks
 # we can use this for many thing
 # with block
 # context manager
@@ -70,12 +70,12 @@ with open('file.txt' , 'r+') as g:
 
 
 
-# 																			read and WRITE
+# 																	read and WRITE
 with open('file.txt' , 'r') as rf:
     with open('file1.txt', 'w') as wf:
         wf.write(rf.read())
 
-# 																				exercise of ch 17 
+# 																	exercise of ch 17 
 
 with open('file1.txt', 'r') as rf:
     with open('file.txt', 'a') as wf:
@@ -84,7 +84,7 @@ with open('file1.txt', 'r') as rf:
             wf.write(f'{name}\'s, salary is {salary}')
 
 
-# 																exercise 2 ch 17
+# 																  exercise 2 ch 17
 
 # with open("index.html", 'r') as webpage:
 #     with open('file1.txt',  'a') as wf:

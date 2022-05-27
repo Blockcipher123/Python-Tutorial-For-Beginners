@@ -7,7 +7,7 @@
 
 
 
-# 																	more_about_file
+# ========================================================= more_about_file ==========================================================
 # with open('love_story.txt','r',encoding='cp1252') as f:
 #     print(f.encoding)
 #     data = f.read()
@@ -21,7 +21,7 @@ with open('love_story.txt','r',encoding='cp1252') as f:
         data = f.read(100)                
 
 
-# 											READ CSV FILE 
+# ======================================================== READ CSV FILE ============================================================
 from csv import reader
 
 with open('file.csv','r') as f:
@@ -32,7 +32,7 @@ with open('file.csv','r') as f:
         print(row)
     # print(csv_reader)
 
-# 																		Read csv with Dict reader
+# 														Read csv with Dict reader
 from csv import DictReader
 # order dict
 with open('file.csv','r') as f:
@@ -81,7 +81,7 @@ with open('file5.csv','w', newline='') as f:
     # csv_writer.writerows([['name','country'],['djeq cpp','china'],['Block_cipher','india'],['pter','america']])
 
 
-# 																		write to csv file with DictWriter
+# ============================================= write to csv file with DictWriter ===================================================
 from csv import DictWriter
 with open('file3.csv', 'w',newline='') as f:
     csv_writer = DictWriter(f,fieldnames=['first_name','last_name','age'])  
@@ -114,7 +114,7 @@ csv_writer.writerows = ([
  
 
 
-# 																	Read and Wirte in csv file
+# ============================================================ Read and Wirte in csv file ============================================
 from csv import DictReader,DictWriter
 with open('file.csv','r') as rf:
     with open('file3.csv','w' ,newline='') as wf:

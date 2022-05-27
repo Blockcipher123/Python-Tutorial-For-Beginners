@@ -6,10 +6,10 @@
 # ************************************************************************************************************************************************************************
 
 #    What is list comprehension ?
-
-
-# list comprehension
 # with the help of list comprehension we can create of list in one line
+
+
+# ========================================================== list comprehension ==============================================
 
 # create a list of squares from 1 t0 10
 

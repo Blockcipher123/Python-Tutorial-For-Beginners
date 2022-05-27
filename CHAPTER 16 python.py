@@ -6,7 +6,7 @@
 # **********************************************************************************************************************************************************
 
 
-# OBJECT ORIENTED PROGRAMMING 
+# =================================================== OBJECT ORIENTED PROGRAMMING ====================================================
 
 # COMMON TOPIC IN ALMOST ALL POPULAR PROGRAMMING LANGUAGE(PYTHON, C++,JAVA)
 # WITH COMMON IDEA BUT WITH DEFFERENT SYNTEX
@@ -53,7 +53,7 @@ print(p1.first_name)
 print(p2.first_name)
 
 
-# 																							exercise of ch 16
+# 														exercise of ch 16
 # creat a laptop class with Attribute like brang name, model_name, price
 # creat two object/instance of your laptop class
 
@@ -230,7 +230,7 @@ p2 = Person(
 print(Person.Person_count)
 
 
-# 																			opp - class method
+# 																opp - class method
 # difference between class method and instance method
 class Person:
     count_instance = 0
@@ -364,7 +364,7 @@ print(phone1._Phone__price)
 # l = [2,3,1,4]
 # l.sort() # we can use this in python tim sort
 # print(l)        
-   # 																						property , setter decoraters
+   # 															property , setter decoraters
 # will discuss three problem in existing
 # them we will solve them using getter , setter decoraters
 class Phone:
@@ -439,7 +439,7 @@ print(smartphone.full_name() + f' and price is {smartphone._price}')
 
 
 
-# 													  more about 	inheritance, multileve inheritance, MRO, method overriding, etc.
+# 									more about 	inheritance, multileve inheritance, MRO, method overriding, etc.
 # can we derive more than one class form base class?
 # multilevel inheritance
 # method resolutin order
