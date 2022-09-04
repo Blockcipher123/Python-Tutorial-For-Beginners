@@ -1,7 +1,7 @@
 
 ## Python-Tutorial-For-Beginners
 
-## GOOD Website FREE Available Python Course
+## Websites FREE Available Python Course
 
  - [Edx.org](https://www.edx.org/)
  - [hackr.io](https://hackr.io/tutorials/learn-python)
@@ -29,44 +29,43 @@
 
 ## How To install PYTHON?
 
-Install Python In Your Pc/Laptop
 
+Install Python In Your Pc/Laptop
  - For Windows Users
 
 ```bash
   https://www.python.org/downloads/ (downloads PYTHON from here)
-  https://www.youtube.com/watch?v=VWgs_iTojoA (if any error what video)
+  https://www.youtube.com/watch?v=VWgs_iTojoA (take help of video)
 ```
  - For Ubuntu  Users
 
 ```bash
-  https://www.python.org/downloads/ (downloads from here)
-  https://www.youtube.com/watch?v=Br2xt6B57SA (if any erro what video)
+  https://www.python.org/downloads/ (downloads PYTHON from here)
+  https://www.youtube.com/watch?v=Br2xt6B57SA (take help of video)
 ```
 
  - For Mac And Linux Users
 
 ```bash
-  https://www.python.org/downloads/ (downloads from here)
-  https://www.youtube.com/watch?v=XF_rklW9XkU (if any erro what video)
+  https://www.python.org/downloads/ (downloads PYTHON from here)
+  https://www.youtube.com/watch?v=XF_rklW9XkU (take help of video)
 ```
 
 
 
 
-## Check Whether Python is install in Your Computer
-
-Follow The Steps
+## How to check PYTHON is install in Your PC?
 
 ```bash
-  Open CMD 
+  Open Command Line (CMD)
   (Press window key + r) Then type "cmd"
 ```
 
-
+<img src='https://user-images.githubusercontent.com/84004110/188313863-31a36fd9-2ef2-4f04-ab6f-c88bddfe53b9.jpg' height="20px" width="20px">
 ```bash
-  type -- python --version
-  (if it didn't give any erro then python is succesfully install in ur com)
+  
+  type --> python --version
+  (if it didn't give any erro then python is succesfully install in your PC)
 ```
 
  - Optional
