@@ -1,21 +1,28 @@
 
 ## Python-Tutorial-For-Beginners
 
-Here Is Some Website where You Got FREE course 
+## GOOD Website FREE Available Python Course
 
  - [Edx.org](https://www.edx.org/)
  - [hackr.io](https://hackr.io/tutorials/learn-python)
  - [nptel](https://nptel.ac.in/)
  - [eduonix](https://www.eduonix.com/courses/)
- - [codetoquest](https://codetoquest.herokuapp.com/All%20courses%20files/python.html)
+ - [codetoquest](https://codetoquest.netlify.app/all%20courses%20files/python)
  - [sololearn](https://www.sololearn.com/learning/)
  - [Youtube](https://www.youtube.com/)
 
 
-## Books
+## FREE Books
 
 - [@automatetheboringstuff](https://automatetheboringstuff.com/)
 
+## Some Good YOUTUBE Tutorial To Learn PYTHON 
+ - [Python Full Course for Beginners](https://youtu.be/_uQrJ0TkZlc)
+ - [Full Course for Beginners](https://youtu.be/rfscVS0vtbw)
+ - [Python for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+ - [Python 3](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+ - [Python in Hindi from beginners (in HINDI)](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
+ - [Python Tutorial For Beginners In Hindi ](https://www.youtube.com/watch?v=gfDE2a7MKjA)
 
 
 ## Installation
@@ -76,16 +83,9 @@ print("Hello World!")
 ```
 
 
-## Some YOUTUBE Good Tutorial For Bigginer 
- - [Python Full Course for Beginners](https://youtu.be/_uQrJ0TkZlc)
- - [Full Course for Beginners](https://youtu.be/rfscVS0vtbw)
- - [Python for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
- - [Python 3](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
- - [Python in Hindi from beginners (in HINDI)](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
- - [Python Tutorial For Beginners In Hindi ](https://www.youtube.com/watch?v=gfDE2a7MKjA)
 
 
 
 
 ## Posted By
- - [@Block_Cipher](https://blockcipher123.github.io/GauravKumar/)
+ - [@Block_Cipher](https://blockcipher.netlify.app/)
