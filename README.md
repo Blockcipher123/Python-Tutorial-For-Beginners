@@ -66,7 +66,7 @@ Install Python In Your Pc/Laptop
   (if it didn't give any erro then python is succesfully install in your PC)
   see the pic below
 ```
-<img src='https://user-images.githubusercontent.com/84004110/188313863-31a36fd9-2ef2-4f04-ab6f-c88bddfe53b9.jpg' height="250px" width="500px" align="center">
+<img src='https://user-images.githubusercontent.com/84004110/188313863-31a36fd9-2ef2-4f04-ab6f-c88bddfe53b9.jpg' align="center" height="250px" width="500px">
 
 ```bash
  - Optional
