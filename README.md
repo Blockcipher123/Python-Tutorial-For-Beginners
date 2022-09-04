@@ -15,6 +15,8 @@
 ## FREE Books
 
 - [@automatetheboringstuff](https://automatetheboringstuff.com/)
+- [@python-2e](https://greenteapress.com/wp/think-python-2e/)
+- [@pythonbooks](https://pythonbooks.org/free-books/)
 
 ## Some Good YOUTUBE Tutorial To Learn PYTHON 
  - [Python Full Course for Beginners](https://youtu.be/_uQrJ0TkZlc)
@@ -25,15 +27,15 @@
  - [Python Tutorial For Beginners In Hindi ](https://www.youtube.com/watch?v=gfDE2a7MKjA)
 
 
-## Installation
+## How To install PYTHON?
 
-Installing Python In Your Pc/Laptop
+Install Python In Your Pc/Laptop
 
  - For Windows Users
 
 ```bash
-  https://www.python.org/downloads/ (downloads from here)
-  https://www.youtube.com/watch?v=VWgs_iTojoA (if any erro what video)
+  https://www.python.org/downloads/ (downloads PYTHON from here)
+  https://www.youtube.com/watch?v=VWgs_iTojoA (if any error what video)
 ```
  - For Ubuntu  Users
 
