@@ -60,12 +60,14 @@ Install Python In Your Pc/Laptop
   Open Command Line (CMD)
   (Press window key + r) Then type "cmd"
 ```
-<img src='https://user-images.githubusercontent.com/84004110/188313863-31a36fd9-2ef2-4f04-ab6f-c88bddfe53b9.jpg' height="20px" width="20px">
 
 ```bash
   type --> python --version
   (if it didn't give any erro then python is succesfully install in your PC)
+  see the pic below
 ```
+<img src='https://user-images.githubusercontent.com/84004110/188313863-31a36fd9-2ef2-4f04-ab6f-c88bddfe53b9.jpg' height="200px" width="200px">
+
 ```bash
  - Optional
  - if You want to install some module in You computer
