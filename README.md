@@ -80,7 +80,7 @@ Install Python In Your Pc/Laptop
 
 
 
-## Python First Programe
+## Python First Programme
 ```python
 print("Hello World!")
 ```
